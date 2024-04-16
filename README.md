@@ -9,10 +9,14 @@ Low poly assets for metaverse
 
 ## 1. Testing URP BakedLit shader
 
+In this project, I make Unity generate lightmap UV.
+
+The URP BakedLit shader does not support PBR, so I use Blender to bake 2D Textures for realness.
+
 - Unity project: [TestingBakedLit](unity/TestingBakedLit)
 - Settings: [URP BakedLit Shader](docs/URP_BakedLit_Shader)
 
-<img src="docs/URP_BakedLit_Shader/Test.jpg" width=600>
+<img src="docs/URP_BakedLit_Shader/Test.jpg" width=500>
 
 ## References
 
