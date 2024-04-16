@@ -1,15 +1,16 @@
-# Unity Low Poly
- 
+# Unity Low Poly (Work in progress)
+
 Low poly assets for metaverse
 
-## Unity version
+## Development environment
 
-I use Unity 2022 3.7f LTS for some reasons.
+- Blender for making low-poly 3D models
+- Unity 2022 3.7f LTS
 
-## URP BakedLit shader
+## Testing URP BakedLit shader
 
 - Unity project: [TestingBakedLit](unity/TestingBakedLit)
-- Settings: [URP BakedLit Shader](docs/URP BakedLit Shader)
+- Settings: [URP BakedLit Shader](docs/URP_BakedLit_Shader)
 
 ## References
 
