@@ -1,6 +1,10 @@
 # Unity Low Poly
  
- Low poly assets for metaverse
+Low poly assets for metaverse
+
+## Unity version
+
+I use Unity 2022 3.7f LTS for some reasons.
 
 ## URP BakedLit shader
 
