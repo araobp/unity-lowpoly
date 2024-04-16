@@ -7,10 +7,12 @@ Low poly assets for metaverse
 - Blender for making low-poly 3D models
 - Unity 2022 3.7f LTS
 
-## Testing URP BakedLit shader
+## 1. Testing URP BakedLit shader
 
 - Unity project: [TestingBakedLit](unity/TestingBakedLit)
 - Settings: [URP BakedLit Shader](docs/URP_BakedLit_Shader)
+
+<img src="URP_BakedLit_Shader/Test.jpg" width=600>
 
 ## References
 
