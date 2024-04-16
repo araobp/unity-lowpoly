@@ -1,5 +1,5 @@
-# Unity Low Poly
- 
+# Unity Low Poly (Work in progress)
+
 Low poly assets for metaverse
 
 ## Development environment
