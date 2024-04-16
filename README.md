@@ -8,6 +8,8 @@ I use Unity 2022 3.7f LTS for some reasons.
 
 ## URP BakedLit shader
 
+- Unity project: [TestingBakedLit](unity/TestingBakedLit)
+- Settings: [URP BakedLit Shader](docs/URP BakedLit Shader)
 
 ## References
 
