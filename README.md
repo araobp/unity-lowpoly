@@ -12,7 +12,7 @@ Low poly assets for metaverse
 - Unity project: [TestingBakedLit](unity/TestingBakedLit)
 - Settings: [URP BakedLit Shader](docs/URP_BakedLit_Shader)
 
-<img src="URP_BakedLit_Shader/Test.jpg" width=600>
+<img src="docs/URP_BakedLit_Shader/Test.jpg" width=600>
 
 ## References
 
